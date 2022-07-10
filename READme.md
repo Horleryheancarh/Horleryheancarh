@@ -36,8 +36,8 @@
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Horleryheancarh&theme=tokyonight&show_icons=true&layout=compact" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horleryheancarh&theme=tokyonight&layout=compact" />
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Horleryheancarh&theme=tokyonight&show_icons=true&layout=compact" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horleryheancarh&theme=tokyonight&layout=compact" /> |
+|-----------------|-----------------|
 
 <br/>
 
@@ -46,6 +46,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/horleryheancarh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Olayinka Oladipo-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:oladipoolayinka7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-oladipoolayinka7@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p 
+</p >
 
 ⭐️ From [Olayinka](https://github.com/Horleryheancarh)
