@@ -19,6 +19,7 @@
   ![Moleculer](https://img.shields.io/badge/-Moleculer-333333?style=flat&logo=moleculer)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongodb)
   ![Postgres](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MySQl](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
