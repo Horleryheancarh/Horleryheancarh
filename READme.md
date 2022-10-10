@@ -1,5 +1,7 @@
 # Hey there! I'm Olayinka.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Horleryheancarh" alt="akhilgkrishnan" /> </p>
+
 ## 👨🏻‍💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring technologies and developing software solutions.
@@ -37,8 +39,8 @@
 
 <br/>
 
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Horleryheancarh&theme=tokyonight&show_icons=true&layout=compact" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horleryheancarh&theme=tokyonight&layout=compact" /> |
-|-----------------|-----------------|
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Horleryheancarh&theme=tokyonight&show_icons=true&layout=compact" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horleryheancarh&theme=tokyonight&layout=compact" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Horleryheancarh&theme=tokyonight" alt="mystreak"/> |
+|-----------------|-----------------|-------------------|
 
 <br/>
 
