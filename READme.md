@@ -7,7 +7,6 @@
 - 🤔 &nbsp; Exploring technologies and developing software solutions.
 - 🎓 &nbsp; Studied Computer Engineering.
 - 💼 &nbsp; Software Engineer and DevOps Engineer at Virtoffix.
-- 💼 &nbsp; DevOps Engineer Intern at Darey.io.
 - 🌱 &nbsp; Learning more about Software Engineering And DevOps.
 
 ## 🛠 &nbsp;Tech Stack
