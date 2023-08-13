@@ -1,15 +1,15 @@
 # Hey there! I'm Olayinka.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Horleryheancarh" alt="akhilgkrishnan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Horleryheancarh"/> </p>
 
-## 👨🏻‍💻 &nbsp;About Me 
+## 👨🏻‍💻 &nbsp; About Me 
 
 - 🤔 &nbsp; Exploring technologies and developing software solutions.
 - 🎓 &nbsp; Studied Computer Engineering.
 - 💼 &nbsp; Software Engineer and DevOps Engineer at Virtoffix.
 - 🌱 &nbsp; Learning more about Software Engineering And DevOps.
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp; Tech Stack
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -18,6 +18,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Moleculer](https://img.shields.io/badge/-Moleculer-333333?style=flat&logo=moleculer)
+  ![NestJs](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=NestJS)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongodb)
@@ -35,7 +36,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-
 <br/>
 
 | <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Horleryheancarh&theme=tokyonight&show_icons=true&layout=compact" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horleryheancarh&theme=tokyonight&layout=compact" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Horleryheancarh&theme=tokyonight" alt="mystreak"/> |
@@ -43,11 +43,11 @@
 
 <br/>
 
-## 🤝🏻 &nbsp;Connect with Me 
+## 🤝🏻 &nbsp; Connect with Me 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/horleryheancarh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Olayinka Oladipo-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:oladipoolayinka7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-oladipoolayinka7@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p >
 
-⭐️ From [Olayinka](https://github.com/Horleryheancarh)
+⭐️ From [Horleryheancarh](https://github.com/Horleryheancarh)
