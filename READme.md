@@ -6,7 +6,6 @@
 
 - 🤔 &nbsp; Exploring technologies and developing software solutions.
 - 🎓 &nbsp; Studied Computer Engineering.
-- 💼 &nbsp; Software Engineer at Moonsat Technology.
 - 🌱 &nbsp; Learning more about Software Engineering And DevOps Engineering.
 
 ## 🛠 &nbsp; Tech Stack
